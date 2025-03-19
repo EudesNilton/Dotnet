@@ -1,0 +1,15 @@
+C:\Users\HP Amanda\Desktop\Dotnet\bin\Debug\net9.0\Dotnet.exe
+C:\Users\HP Amanda\Desktop\Dotnet\bin\Debug\net9.0\Dotnet.deps.json
+C:\Users\HP Amanda\Desktop\Dotnet\bin\Debug\net9.0\Dotnet.runtimeconfig.json
+C:\Users\HP Amanda\Desktop\Dotnet\bin\Debug\net9.0\Dotnet.dll
+C:\Users\HP Amanda\Desktop\Dotnet\bin\Debug\net9.0\Dotnet.pdb
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.AssemblyInfoInputs.cache
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.AssemblyInfo.cs
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.csproj.CoreCompileInputs.cache
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.sourcelink.json
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.dll
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\refint\Dotnet.dll
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.pdb
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\Dotnet.genruntimeconfig.cache
+C:\Users\HP Amanda\Desktop\Dotnet\obj\Debug\net9.0\ref\Dotnet.dll
