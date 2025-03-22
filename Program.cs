@@ -4,22 +4,17 @@ public class Program
 {
     public static void Main()
     {
-        //Variaveis são locais para guardar informações
+        //uma constante não pode ser alterada
+        const int number = 100;
+        Console.WriteLine("O valor da constante é : " + number);
 
-        string name = "Eudes";
-        Console.WriteLine(name);
+        //dynamic é uma "variavel" que pode ser alterada tanto o valor quanto o tipo
+        // ao longo do codigo
 
-        int age = 27;
-        Console.WriteLine(age);
+        dynamic variable = 20;
+        variable = "Eudes";
 
-        double value = 300.0;
-        Console.WriteLine(value);
-
-        char character = 'a';
-        Console.WriteLine(character);
-        
-        bool boolean = true;
-        Console.WriteLine(boolean);
+        Console.WriteLine(variable);
     
     }
 }
