@@ -4,18 +4,23 @@ public class Program
 {
     public static void Main()
     {
-        //uma constante não pode ser alterada
-        const int number = 100;
-        Console.WriteLine("O valor da constante é : " + number);
+        //input entrada e output saida de dados
 
-        //dynamic é uma "variavel" que pode ser alterada tanto o valor quanto o tipo
-        // ao longo do codigo
+        //output
+        Console.WriteLine("-----LOGIN-----");
 
-        dynamic variable = 20;
-        variable = "Eudes";
+        //solicitar o nome do usuário
+        Console.Write("Digite seu nome: ");
+        //input - entrada de dados
+        string name = Console.ReadLine();
 
-        Console.WriteLine(variable);
-    
+        Console.Write("Digite sua idade: ");
+        //ReadLine não lê string então é necessario usar o Convert para transformar o inteiroem string
+        int age = Convert.ToInt32(Console.ReadLine());
+
+        Console.WriteLine("O Nome do usuário é " + name + " a idade do usuário é " + age + " anos");
+
+
     }
 }
 
